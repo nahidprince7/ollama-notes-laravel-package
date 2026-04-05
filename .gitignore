@@ -1,0 +1,6 @@
+/vendor
+/.idea
+/.vscode
+node_modules
+.env
+composer.lock
