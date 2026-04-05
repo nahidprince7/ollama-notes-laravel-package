@@ -1,7 +1,7 @@
 # 🧠 laravel-ai-notes
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nahid/laravel-ai-notes.svg?style=flat-square)](https://packagist.org/packages/nahid/laravel-ai-notes)
-[![Total Downloads](https://img.shields.io/packagist/dt/nahid/laravel-ai-notes.svg?style=flat-square)](https://packagist.org/packages/nahid/laravel-ai-notes)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/nahid/laravel-ai-notes.svg?style=flat-square)](https://packagist.org/packages/nahid-hasan/ai-notes)
+[![Total Downloads](https://img.shields.io/packagist/dt/nahid/laravel-ai-notes.svg?style=flat-square)](https://packagist.org/packages/nahid-hasan/ai-notes)
 [![License](https://img.shields.io/packagist/l/nahid/laravel-ai-notes.svg?style=flat-square)](LICENSE)
 [![PHP Version](https://img.shields.io/packagist/php-v/nahid/laravel-ai-notes.svg?style=flat-square)](composer.json)
 
