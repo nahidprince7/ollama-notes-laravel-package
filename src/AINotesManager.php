@@ -75,25 +75,5 @@ class AINotesManager
         }
     }
 
-   public function summarize(string $text): string
-    {
-        return $this->provider->summarize($text);
-    }
-
-    /**
-     * Pass the request to generate embeddings
-     */
-    public function embed(string $text): array
-    {
-        return $this->provider->embed($text);
-    }
-    
-    /**
-     * Pass the request to transcribe audio
-     */
-    public function transcribe(string $audioPath): string
-    {
-        return $this->provider->transcribe($audioPath);
-    }
 
 }

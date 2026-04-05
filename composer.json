@@ -1,5 +1,5 @@
 {
-    "name": "nahid-hasan/ollama-notes",
+    "name": "nahid-hasan/ai-notes",
     "description": "AI-powered voice notes with semantic search for Laravel",
     "type": "library",
     "require": {
