@@ -58,7 +58,7 @@ AINote::ask("What did I promise the client?");
 ### 1. Install the package
 
 ```bash
-composer require nahid/ai-notes
+composer require nahid-hasan/ai-notes
 ```
 
 ### 2. Run the install command
